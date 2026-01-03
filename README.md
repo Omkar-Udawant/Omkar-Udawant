@@ -1,5 +1,12 @@
-# 💫 About Me:
-👨‍💻 About Me<br><br>🔭 I’m currently working on<br><br>Data Science projects using Python<br><br>Data analysis, visualization, and insight generation<br><br>Flask-based applications for data-driven solutions<br><br>👯 I’m looking to collaborate on<br><br>Data Science & Analytics projects<br><br>Machine Learning applications<br><br>Flask backend & API-based projects<br><br>🤝 I’m looking for help with<br><br>Advanced Machine Learning techniques<br><br>Model deployment using Flask<br><br>Building scalable, production-ready applications<br><br>🌱 I’m currently learning<br><br>Data Science & Machine Learning<br><br>Flask (APIs, Authentication, Backend logic)<br><br>Pandas, NumPy, Matplotlib, Seaborn<br><br>💬 Ask me about<br><br>Data cleaning & exploratory data analysis (EDA)<br><br>Python for Data Science<br><br>Flask backend development<br><br>⚡ Fun fact<br><br>I love connecting data insights with real-world web applications 🚀
+# 💫 About Me
+
+👨‍💻 Data Science enthusiast focused on turning data into insights using Python.  
+
+🔭 Working on data analysis, visualization, and Flask-based data-driven applications  
+👯 Open to collaborating on Data Science, ML, and Flask API projects  
+🌱 Currently learning Machine Learning, Flask backend, and data analysis tools  
+💬 Ask me about Python for Data Science, EDA, and Flask development  
+⚡ Fun fact: I enjoy connecting data insights with real-world applications 🚀
 
 
 ## 🌐 Socials:
