@@ -1,17 +1,11 @@
 # 💫 About Me
 
-# 👋 About Me
 
 💻 Data Science and AI enthusiast passionate about turning data into meaningful insights using **Python and Machine Learning**.
-
 📊 Skilled in **data analysis, visualization, and building data-driven applications** using tools like **Pandas, NumPy, Matplotlib, and Flask/FastAPI**.
-
 🤖 Currently exploring **Machine Learning, AI systems, and real-world data science applications**.
-
 🚀 Interested in working on **Data Science, Machine Learning, and Python backend projects**.
-
 💡 Ask me about **Python, Data Analysis, EDA, APIs, and building data-driven applications**.
-
 ⚡ Fun fact: I enjoy transforming complex data into simple, actionable insights.
 
 
