@@ -1,241 +1,160 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:2563EB,100:06B6D4&text=Omkar%20Udawant&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000428,50:004e92,100:00d4ff&text=OMKAR%20UDAWANT&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=fadeIn"/>
 
-<h1>👨‍💻 AI Engineer | Data Scientist | Oracle Certified Professional</h1>
+<img width="280" src="assets/omi-ai.png"/>
 
-<h3>🚀 AI Intern @ FlyRank | B.E. AI & Data Science | CGPA 9.93/10</h3>
+<h1>🤖 OMI-AI COMMAND CENTER</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Generative+AI+Explorer;Oracle+Certified+Professional;Building+AI+Powered+Solutions;DSA+%7C+SQL+%7C+AWS+%7C+LLMs" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Omkar-Udawant&style=for-the-badge&color=blue" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=AI+Intern+%40+FlyRank;Oracle+Certified+Professional;Artificial+Intelligence+Engineer;Building+Real+World+AI+Systems;Machine+Learning+%7C+Cloud+%7C+Generative+AI"/>
 
 </div>
 
 ---
 
-# ⚡ Quick Snapshot
+# ⚡ SYSTEM STATUS
 
 ```yaml
 Name: Omkar Udawant
 
-Degree:
-  B.E. Artificial Intelligence & Data Science
+Role: AI Intern @ FlyRank
 
-CGPA:
-  9.93 / 10
+Status: ONLINE
 
-Current Position:
-  AI Intern @ FlyRank
+CGPA: 9.93 / 10
+
+AI: ACTIVE
+Machine Learning: ACTIVE
+Cloud Computing: ACTIVE
+Generative AI: ACTIVE
+
+Current Mission:
+  Secure Top AI/Software Role
 
 Location:
   Pune, India
-
-Core Domains:
-  - Artificial Intelligence
-  - Machine Learning
-  - Data Science
-  - Cloud Computing
-  - Generative AI
-
-Current Focus:
-  - DSA in C++
-  - Advanced SQL
-  - AWS Cloud
-  - MLOps
-  - LLM Applications
 ```
 
 ---
 
-# 🌟 About Me
-
-- 🤖 Passionate about Artificial Intelligence and Machine Learning.
-- 📊 Experienced in Data Analytics, Visualization, and AI Solutions.
-- 🚀 Currently working as an **AI Intern at FlyRank**.
-- ☁️ Exploring AWS Cloud, MLOps, AI Search, and LLM Applications.
-- 💡 Love building real-world AI systems that solve meaningful problems.
-- 🎯 Preparing for Software Engineering, AI, and Data Science opportunities.
-
----
-
-# 🌐 Connect With Me
+# 🌐 NETWORK LINKS
 
 <div align="center">
 
-<a href="https://linkedin.com/in/omkar-udawant">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://github.com/Omkar-Udawant">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://github.com/Omkar-Udawant">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="https://linkedin.com/in/omkar-udawant">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:udawantomkar10@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://leetcode.com/u/Omiii333/">
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48"/>
 </a>
 
-<a href="https://instagram.com/omkar_udawant_333">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
 </div>
 
 ---
 
-# 💼 Experience
+# 🚀 FEATURED MISSIONS
 
-## 🤖 AI Intern | FlyRank (Present)
-
-- Working on AI-powered solutions and intelligent automation systems.
-- Exploring AI Search, LLMs, Generative AI, and modern AI workflows.
-- Developing scalable AI applications for real-world use cases.
-- Building practical solutions using cutting-edge AI technologies.
-
----
-
-## 📊 Data Science & Analytics Intern | Future Interns
-
-- Business Sales Performance Analytics.
-- Customer Churn Analysis.
-- Marketing Funnel Analysis.
-- Power BI Dashboard Development.
-- KPI Reporting and Data Visualization.
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description |
-|----------|------------|
-| 🏥 AI Health Assistant | AI-powered healthcare information assistant using Gemini API, Next.js, and modern AI workflows |
-| 🎓 College Legacy Alumni Platform | Full-stack alumni networking platform with recommendations and analytics |
-| 🚦 Intelligent Traffic Management System | AI-based traffic monitoring using YOLOv8 and FastAPI |
-| 📊 Business Analytics Dashboard | Interactive Power BI dashboards for business intelligence and decision-making |
-| 🎙️ Regional Language Voice Assistant | NLP-based assistant supporting regional dialects |
-| 🧪 Clinical Trials Data Analytics | Healthcare analytics platform with PostgreSQL and Power BI |
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-| Achievement |
-|------------|
-| 🥈 National Level Techathon 3.0 Runner-Up |
-| 🏆 Smart India Hackathon Winner (College Level) |
-| 🏅 Smart India Hackathon Internal Round Selection |
-| 🎖️ Project Based Learning Competition Winner |
-| 🎖️ STL Competition Winner |
-
-</div>
-
----
-
-# 📜 Certifications
-
-<div align="center">
-
-| Certification |
-|--------------|
-| ☁️ Oracle Cloud Infrastructure 2025 Certified Data Science Professional |
-| 🤖 Oracle Generative AI Professional |
-| ☁️ Oracle Cloud Certified Professional |
-| 🧠 NPTEL Artificial Intelligence & Machine Learning |
-| 🚀 IBM Getting Started with Artificial Intelligence |
-| 📊 Infosys Springboard Certification |
-| 🐍 Python Programming Bootcamp |
-| 💬 Large Language Models Certification |
-| 📋 Agile Scrum in Practice |
-| ☁️ AWS Cloud Practitioner Training Program |
-
-</div>
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,python,js" />
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs" />
-
-### Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-
-### AI & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-### Cloud & Tools
-
-<img src="https://skillicons.dev/icons?i=aws,git,github,docker,postman,vscode" />
-
-</div>
-
----
-
-# 📚 Learning Roadmap
+### 🏥 AI HEALTH ASSISTANT
 
 ```text
-Artificial Intelligence
-├── Machine Learning
-├── Deep Learning
-├── Generative AI
-├── LLM Applications
-└── AI Agents
-
-Cloud Computing
-├── AWS EC2
-├── AWS IAM
-├── AWS S3
-└── Deployment
-
-Placement Preparation
-├── DSA
-├── SQL
-├── OOP
-├── DBMS
-├── CN
-└── OS
+Next.js
+Gemini API
+Tailwind CSS
+Healthcare AI
 ```
 
 ---
 
-# 📊 GitHub Analytics
+### 🚦 INTELLIGENT TRAFFIC MANAGEMENT
+
+```text
+YOLOv8
+FastAPI
+OpenStreetMap
+Computer Vision
+```
+
+---
+
+### 🎓 COLLEGE LEGACY ALUMNI PLATFORM
+
+```text
+React
+Node.js
+MySQL
+Analytics
+```
+
+---
+
+### 📊 BUSINESS ANALYTICS DASHBOARD
+
+```text
+Power BI
+SQL
+DAX
+Business Intelligence
+```
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+- 🥈 National Level Techathon Runner-Up
+- 🏆 Smart India Hackathon Winner
+- 🏅 Internal SIH Selection
+- 🎖 Project Based Learning Winner
+- 🎖 STL Competition Winner
+
+---
+
+# 📜 CERTIFICATIONS
+
+- ☁️ Oracle Cloud Infrastructure 2025 Certified Data Science Professional
+- 🤖 Oracle Generative AI Professional
+- ☁️ Oracle Cloud Certified Professional
+- 🧠 NPTEL AI & ML
+- 🚀 IBM AI Certification
+- 📊 Infosys Springboard
+- 🐍 Python Bootcamp
+- 💬 Large Language Models
+- 📋 Agile Scrum in Practice
+- ☁️ AWS Cloud Practitioner
+
+---
+
+# 🛠 TECH ARSENAL
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Omkar-Udawant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-Udawant&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nextjs,nodejs,express,flask,fastapi,mysql,postgres,mongodb,tensorflow,pytorch,aws,docker,git,github&perline=10"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omkar-Udawant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-Udawant&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 STREAK
 
 <div align="center">
 
@@ -245,21 +164,17 @@ Placement Preparation
 
 ---
 
-# 🏅 LeetCode Analytics
+# 🏅 LEETCODE COMMAND CENTER
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Omiii333/">
-
 <img src="https://leetcard.jacoblin.cool/Omiii333?theme=dark&font=baloo&ext=contest"/>
-
-</a>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -269,46 +184,41 @@ Placement Preparation
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 TROPHIES
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Omkar-Udawant&theme=tokyonight&no-frame=true&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Omkar-Udawant&theme=tokyonight&no-frame=true"/>
 
 </div>
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 TARGETS 2026
 
 ```yaml
-Goals:
-  - Solve 300+ LeetCode Problems
-  - Master DSA & System Design
-  - Become AWS Certified
-  - Build Production AI Applications
-  - Contribute to Open Source
-  - Secure Top AI/Software Role
+LeetCode:
+  Goal: 300 Problems
+
+Cloud:
+  Goal: AWS Certification
+
+AI:
+  Goal: Production AI Applications
+
+Career:
+  Goal: Top AI Internship / Placement
 ```
 
 ---
 
-# 💭 Personal Motto
-
 <div align="center">
 
-## "Transforming Data into Intelligence and Intelligence into Impact."
+## 🤖 OMI-AI IS ONLINE
+
+### "Transforming Data Into Intelligence"
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:000428,50:004e92,100:00d4ff"/>
 
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-🚀 AI • Machine Learning • Data Science • Generative AI • Cloud Computing
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0F172A,50:2563EB,100:06B6D4"/>
