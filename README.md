@@ -1,54 +1,317 @@
-# 💫 About Me
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Omkar%20Udawant&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 
-💻 Data Science and AI enthusiast passionate about turning data into meaningful insights using **Python and Machine Learning**.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+%26+Data+Science+Engineer;AI+Intern+%40+FlyRank;Machine+Learning+Enthusiast;Cloud+Computing+Learner;Building+Real-World+AI+Solutions;DSA+%7C+SQL+%7C+AWS+%7C+Generative+AI" />
 
-📊 Skilled in **data analysis, visualization, and building data-driven applications** using tools like **Pandas, NumPy, Matplotlib, and Flask/FastAPI**.
+<br>
 
-🤖 Currently exploring **Machine Learning, AI systems, and real-world data science applications**.
+<img src="https://komarev.com/ghpvc/?username=Omkar-Udawant&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
-🚀 Interested in working on **Data Science, Machine Learning, and Python backend projects**.
-
-💡 Ask me about **Python, Data Analysis, EDA, APIs, and building data-driven applications**.
-
-⚡ Fun fact: I enjoy transforming complex data into simple, actionable insights.
-
-
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/omkardatasci) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/omkar) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/omiii333) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omkar_udawant_333) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-udawant) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Omkar-Udawant) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Omkar) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Omkar-Udawant)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:udawantomkar825@gmail.com) 
-
-# 💻 Tech Stack:
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Omkar-Udawant&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Omkar-Udawant&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-Udawant&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Omkar-Udawant&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Omkar-Udawant&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 💫 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```yaml
+Name: Omkar Udawant
+Degree: B.E. Artificial Intelligence & Data Science
+CGPA: 9.93/10
+Location: Pune, India
+
+Current Role:
+  - AI Intern @ FlyRank
+  - Former Data Science & Analytics Intern @ Future Interns
+
+Interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Data Science
+  - Cloud Computing
+  - Backend Development
+  - Generative AI
+
+Currently Learning:
+  - Data Structures & Algorithms
+  - Advanced SQL
+  - AWS Cloud
+  - MLOps
+  - LLM Applications
+```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/omkar-udawant">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/Omkar-Udawant">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:udawantomkar10@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://leetcode.com/u/Omiii333/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48"/>
+</a>
+
+<a href="https://instagram.com/omkar_udawant_333">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+</div>
+
+---
+
+# 🏆 Achievement Showcase
+
+<div align="center">
+
+| Achievement | Status |
+|------------|--------|
+| 🥈 National Level Techathon 3.0 | Runner-Up |
+| 🏆 Smart India Hackathon (College Level) | Winner |
+| 🚀 FlyRank AI Internship | Completed |
+| 📊 Future Interns Data Science Internship | Completed |
+| 🏅 Smart India Hackathon Internal Round | Selected |
+| 🎓 Current CGPA | 9.93 |
+
+</div>
+
+---
+
+# 🚀 Experience
+
+### 🤖 AI Intern | FlyRank
+
+- Worked on AI-powered applications and intelligent automation systems.
+- Explored AI Search, LLM workflows, and Generative AI technologies.
+- Built practical AI solutions and enhanced AI fluency.
+
+### 📊 Data Science & Analytics Intern | Future Interns
+
+- Business Sales Performance Analytics using Power BI.
+- Customer Retention & Churn Analysis.
+- Marketing Funnel Analysis.
+- KPI Dashboard Development and Reporting.
+
+---
+
+# 🛠 Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,mysql,postgres,mongodb,html,css,js,react,nodejs,express,flask,fastapi,git,github,aws,docker,tensorflow,pytorch,vscode&perline=10" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+### 🎓 College Legacy Alumni Platform
+
+```text
+Full Stack Alumni Networking Platform
+├── Authentication
+├── Messaging System
+├── Alumni Directory
+├── Recommendations
+└── Analytics Dashboard
+```
+
+**Tech:** React • Node.js • Express • MySQL
+
+---
+
+### 🚦 Intelligent Traffic Management System
+
+```text
+AI Traffic Monitoring
+├── YOLOv8
+├── FastAPI
+├── OpenStreetMap
+├── SUMO
+└── Traffic Prediction
+```
+
+**Tech:** Python • YOLOv8 • FastAPI
+
+---
+
+### 🏥 Clinical Trials Data Analytics
+
+```text
+Healthcare Analytics
+├── ETL Pipeline
+├── PostgreSQL
+├── Power BI Dashboard
+└── Data Reporting
+```
+
+**Tech:** PostgreSQL • Power BI
+
+---
+
+### 🎙️ Regional Language Voice Assistant
+
+```text
+Speech + NLP System
+├── Speech Recognition
+├── Natural Language Processing
+├── Text To Speech
+└── Regional Dialects
+```
+
+**Tech:** Python • NLP • ML
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+| Certification |
+|--------------|
+| AWS Cloud Practitioner Training |
+| IBM Getting Started with AI |
+| Agile Scrum in Practice |
+| Introduction to Machine Learning |
+| Python Programming & Data Analytics |
+
+</div>
+
+---
+
+# 🌱 Current Learning Path
+
+```mermaid
+mindmap
+  root((Learning))
+    DSA
+      Arrays
+      Linked List
+      Trees
+      Graphs
+    SQL
+      Joins
+      Window Functions
+      Optimization
+    AWS
+      EC2
+      S3
+      IAM
+    AI
+      LLMs
+      RAG
+      Agents
+    MLOps
+      Docker
+      Deployment
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omkar-Udawant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-Udawant&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkar-Udawant&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏅 LeetCode Profile
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Omiii333/">
+
+<img src="https://leetcard.jacoblin.cool/Omiii333?theme=dark&font=Baloo&ext=contest" />
+
+</a>
+
+</div>
+
+### Current Progress
+
+```yaml
+Username: Omiii333
+Focus: DSA + Placements
+Solved: 20+
+Easy: 16
+Medium: 4
+Hard: 0
+```
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Omkar-Udawant&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkar-Udawant&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 💭 Philosophy
+
+<div align="center">
+
+### "Turning Data Into Intelligence, Intelligence Into Impact."
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+🚀 AI • ML • Data Science • Cloud • Innovation
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
