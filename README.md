@@ -1,39 +1,47 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Omkar%20Udawant&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:2563EB,100:06B6D4&text=Omkar%20Udawant&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+%26+Data+Science+Engineer;AI+Intern+%40+FlyRank;Machine+Learning+Enthusiast;Cloud+Computing+Learner;Building+Real-World+AI+Solutions;DSA+%7C+SQL+%7C+AWS+%7C+Generative+AI" />
+<h1>👨‍💻 AI Engineer | Data Scientist | Oracle Certified Professional</h1>
+
+<h3>🚀 AI Intern @ FlyRank | B.E. AI & Data Science | CGPA 9.93/10</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Generative+AI+Explorer;Oracle+Certified+Professional;Building+AI+Powered+Solutions;DSA+%7C+SQL+%7C+AWS+%7C+LLMs" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Omkar-Udawant&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Omkar-Udawant&style=for-the-badge&color=blue" />
 
 </div>
 
 ---
 
-# 💫 About Me
+# ⚡ Quick Snapshot
 
 ```yaml
 Name: Omkar Udawant
-Degree: B.E. Artificial Intelligence & Data Science
-CGPA: 9.93/10
-Location: Pune, India
 
-Current Role:
-  - AI Intern @ FlyRank
-  - Former Data Science & Analytics Intern @ Future Interns
+Degree:
+  B.E. Artificial Intelligence & Data Science
 
-Interests:
+CGPA:
+  9.93 / 10
+
+Current Position:
+  AI Intern @ FlyRank
+
+Location:
+  Pune, India
+
+Core Domains:
   - Artificial Intelligence
   - Machine Learning
   - Data Science
   - Cloud Computing
-  - Backend Development
   - Generative AI
 
-Currently Learning:
-  - Data Structures & Algorithms
+Current Focus:
+  - DSA in C++
   - Advanced SQL
   - AWS Cloud
   - MLOps
@@ -42,7 +50,18 @@ Currently Learning:
 
 ---
 
-## 🌐 Connect With Me
+# 🌟 About Me
+
+- 🤖 Passionate about Artificial Intelligence and Machine Learning.
+- 📊 Experienced in Data Analytics, Visualization, and AI Solutions.
+- 🚀 Currently working as an **AI Intern at FlyRank**.
+- ☁️ Exploring AWS Cloud, MLOps, AI Search, and LLM Applications.
+- 💡 Love building real-world AI systems that solve meaningful problems.
+- 🎯 Preparing for Software Engineering, AI, and Data Science opportunities.
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -70,107 +89,57 @@ Currently Learning:
 
 ---
 
-# 🏆 Achievement Showcase
+# 💼 Experience
 
-<div align="center">
+## 🤖 AI Intern | FlyRank (Present)
 
-| Achievement | Status |
-|------------|--------|
-| 🥈 National Level Techathon 3.0 | Runner-Up |
-| 🏆 Smart India Hackathon (College Level) | Winner |
-| 🚀 FlyRank AI Internship | Completed |
-| 📊 Future Interns Data Science Internship | Completed |
-| 🏅 Smart India Hackathon Internal Round | Selected |
-| 🎓 Current CGPA | 9.93 |
-
-</div>
+- Working on AI-powered solutions and intelligent automation systems.
+- Exploring AI Search, LLMs, Generative AI, and modern AI workflows.
+- Developing scalable AI applications for real-world use cases.
+- Building practical solutions using cutting-edge AI technologies.
 
 ---
 
-# 🚀 Experience
+## 📊 Data Science & Analytics Intern | Future Interns
 
-### 🤖 AI Intern | FlyRank
-
-- Worked on AI-powered applications and intelligent automation systems.
-- Explored AI Search, LLM workflows, and Generative AI technologies.
-- Built practical AI solutions and enhanced AI fluency.
-
-### 📊 Data Science & Analytics Intern | Future Interns
-
-- Business Sales Performance Analytics using Power BI.
-- Customer Retention & Churn Analysis.
+- Business Sales Performance Analytics.
+- Customer Churn Analysis.
 - Marketing Funnel Analysis.
-- KPI Dashboard Development and Reporting.
-
----
-
-# 🛠 Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,mysql,postgres,mongodb,html,css,js,react,nodejs,express,flask,fastapi,git,github,aws,docker,tensorflow,pytorch,vscode&perline=10" />
-
-</div>
+- Power BI Dashboard Development.
+- KPI Reporting and Data Visualization.
 
 ---
 
 # 🚀 Featured Projects
 
-### 🎓 College Legacy Alumni Platform
+<div align="center">
 
-```text
-Full Stack Alumni Networking Platform
-├── Authentication
-├── Messaging System
-├── Alumni Directory
-├── Recommendations
-└── Analytics Dashboard
-```
+| Project | Description |
+|----------|------------|
+| 🏥 AI Health Assistant | AI-powered healthcare information assistant using Gemini API, Next.js, and modern AI workflows |
+| 🎓 College Legacy Alumni Platform | Full-stack alumni networking platform with recommendations and analytics |
+| 🚦 Intelligent Traffic Management System | AI-based traffic monitoring using YOLOv8 and FastAPI |
+| 📊 Business Analytics Dashboard | Interactive Power BI dashboards for business intelligence and decision-making |
+| 🎙️ Regional Language Voice Assistant | NLP-based assistant supporting regional dialects |
+| 🧪 Clinical Trials Data Analytics | Healthcare analytics platform with PostgreSQL and Power BI |
 
-**Tech:** React • Node.js • Express • MySQL
-
----
-
-### 🚦 Intelligent Traffic Management System
-
-```text
-AI Traffic Monitoring
-├── YOLOv8
-├── FastAPI
-├── OpenStreetMap
-├── SUMO
-└── Traffic Prediction
-```
-
-**Tech:** Python • YOLOv8 • FastAPI
+</div>
 
 ---
 
-### 🏥 Clinical Trials Data Analytics
+# 🏆 Achievements
 
-```text
-Healthcare Analytics
-├── ETL Pipeline
-├── PostgreSQL
-├── Power BI Dashboard
-└── Data Reporting
-```
+<div align="center">
 
-**Tech:** PostgreSQL • Power BI
+| Achievement |
+|------------|
+| 🥈 National Level Techathon 3.0 Runner-Up |
+| 🏆 Smart India Hackathon Winner (College Level) |
+| 🏅 Smart India Hackathon Internal Round Selection |
+| 🎖️ Project Based Learning Competition Winner |
+| 🎖️ STL Competition Winner |
 
----
-
-### 🎙️ Regional Language Voice Assistant
-
-```text
-Speech + NLP System
-├── Speech Recognition
-├── Natural Language Processing
-├── Text To Speech
-└── Regional Dialects
-```
-
-**Tech:** Python • NLP • ML
+</div>
 
 ---
 
@@ -180,41 +149,76 @@ Speech + NLP System
 
 | Certification |
 |--------------|
-| AWS Cloud Practitioner Training |
-| IBM Getting Started with AI |
-| Agile Scrum in Practice |
-| Introduction to Machine Learning |
-| Python Programming & Data Analytics |
+| ☁️ Oracle Cloud Infrastructure 2025 Certified Data Science Professional |
+| 🤖 Oracle Generative AI Professional |
+| ☁️ Oracle Cloud Certified Professional |
+| 🧠 NPTEL Artificial Intelligence & Machine Learning |
+| 🚀 IBM Getting Started with Artificial Intelligence |
+| 📊 Infosys Springboard Certification |
+| 🐍 Python Programming Bootcamp |
+| 💬 Large Language Models Certification |
+| 📋 Agile Scrum in Practice |
+| ☁️ AWS Cloud Practitioner Training Program |
 
 </div>
 
 ---
 
-# 🌱 Current Learning Path
+# 🛠️ Tech Stack
 
-```mermaid
-mindmap
-  root((Learning))
-    DSA
-      Arrays
-      Linked List
-      Trees
-      Graphs
-    SQL
-      Joins
-      Window Functions
-      Optimization
-    AWS
-      EC2
-      S3
-      IAM
-    AI
-      LLMs
-      RAG
-      Agents
-    MLOps
-      Docker
-      Deployment
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js" />
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs" />
+
+### Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+### AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+### Cloud & Tools
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,docker,postman,vscode" />
+
+</div>
+
+---
+
+# 📚 Learning Roadmap
+
+```text
+Artificial Intelligence
+├── Machine Learning
+├── Deep Learning
+├── Generative AI
+├── LLM Applications
+└── AI Agents
+
+Cloud Computing
+├── AWS EC2
+├── AWS IAM
+├── AWS S3
+└── Deployment
+
+Placement Preparation
+├── DSA
+├── SQL
+├── OOP
+├── DBMS
+├── CN
+└── OS
 ```
 
 ---
@@ -223,9 +227,9 @@ mindmap
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omkar-Udawant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Omkar-Udawant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-Udawant&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-Udawant&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -235,58 +239,27 @@ mindmap
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkar-Udawant&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Omkar-Udawant&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏅 LeetCode Profile
+# 🏅 LeetCode Analytics
 
 <div align="center">
 
 <a href="https://leetcode.com/u/Omiii333/">
 
-<img src="https://leetcard.jacoblin.cool/Omiii333?theme=dark&font=Baloo&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/Omiii333?theme=dark&font=baloo&ext=contest"/>
 
 </a>
 
 </div>
 
-### Current Progress
-
-```yaml
-Username: Omiii333
-Focus: DSA + Placements
-Solved: 20+
-Easy: 16
-Medium: 4
-Hard: 0
-```
-
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Omkar-Udawant&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -296,11 +269,35 @@ Hard: 0
 
 ---
 
-# 💭 Philosophy
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-### "Turning Data Into Intelligence, Intelligence Into Impact."
+<img src="https://github-profile-trophy.vercel.app/?username=Omkar-Udawant&theme=tokyonight&no-frame=true&margin-w=8"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+```yaml
+Goals:
+  - Solve 300+ LeetCode Problems
+  - Master DSA & System Design
+  - Become AWS Certified
+  - Build Production AI Applications
+  - Contribute to Open Source
+  - Secure Top AI/Software Role
+```
+
+---
+
+# 💭 Personal Motto
+
+<div align="center">
+
+## "Transforming Data into Intelligence and Intelligence into Impact."
 
 </div>
 
@@ -310,8 +307,8 @@ Hard: 0
 
 ### ⭐ Thanks for visiting my profile!
 
-🚀 AI • ML • Data Science • Cloud • Innovation
+🚀 AI • Machine Learning • Data Science • Generative AI • Cloud Computing
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0F172A,50:2563EB,100:06B6D4"/>
