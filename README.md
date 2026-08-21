@@ -221,21 +221,13 @@ Current Focus:
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Omkar-Udawant&theme=tokyonight&no-frame=true&margin-w=8"/>
-
-</div>
-
----
 
 # 🎯 2026 Goals
 
 ```yaml
 Goals:
-  - Solve 300+ LeetCode Problems
+  - Solve 250+ LeetCode Problems
   - Master DSA & System Design
   - Become AWS Certified
   - Build Production AI Applications
