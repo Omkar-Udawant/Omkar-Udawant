@@ -196,54 +196,6 @@ Current Focus:
 
 ---
 
-# 📚 Learning Roadmap
-
-```text
-Artificial Intelligence
-├── Machine Learning
-├── Deep Learning
-├── Generative AI
-├── LLM Applications
-└── AI Agents
-
-Cloud Computing
-├── AWS EC2
-├── AWS IAM
-├── AWS S3
-└── Deployment
-
-Placement Preparation
-├── DSA
-├── SQL
-├── OOP
-├── DBMS
-├── CN
-└── OS
-```
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Omkar-Udawant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-Udawant&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Omkar-Udawant&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🏅 LeetCode Analytics
 
