@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:2563EB,100:06B6D4&text=Omkar%20Udawant&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn"/>
 
-<h1>👨‍💻 AI Engineer | Data Scientist | Oracle Certified Professional</h1>
+<h1>👨‍💻 AI-ML Engineer | Data Science & Analyst | Oracle Certified Professional|AWS Certified Cloud Practitioner</h1>
 
 <h3>🚀 AI Intern @ FlyRank | B.E. AI & Data Science | CGPA 9.33/10</h3>
 
