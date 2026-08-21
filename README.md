@@ -4,7 +4,7 @@
 
 <h1>👨‍💻 AI Engineer | Data Scientist | Oracle Certified Professional</h1>
 
-<h3>🚀 AI Intern @ FlyRank | B.E. AI & Data Science | CGPA 9.93/10</h3>
+<h3>🚀 AI Intern @ FlyRank | B.E. AI & Data Science | CGPA 9.33/10</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Generative+AI+Explorer;Oracle+Certified+Professional;Building+AI+Powered+Solutions;DSA+%7C+SQL+%7C+AWS+%7C+LLMs" />
 
