@@ -112,16 +112,17 @@ Current Focus:
 
 <div align="center">
 
-| Project | Description |
-|----------|------------|
-| 🏥 AI Health Assistant | AI-powered healthcare information assistant using Gemini API, Next.js, and modern AI workflows |
-| 🎓 College Legacy Alumni Platform | Full-stack alumni networking platform with recommendations and analytics |
-| 🚦 Intelligent Traffic Management System | AI-based traffic monitoring using YOLOv8 and FastAPI |
-| 📊 Business Analytics Dashboard | Interactive Power BI dashboards for business intelligence and decision-making |
-| 🎙️ Regional Language Voice Assistant | NLP-based assistant supporting regional dialects |
-| 🧪 Clinical Trials Data Analytics | Healthcare analytics platform with PostgreSQL and Power BI |
+| Project                                                 | Description                                                                                                                                                                                   |
+| ------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🤖 **RecoverAI — Autonomous AI Revenue Recovery Agent** | Agentic AI platform using LangGraph, XGBoost, Gemini, FastAPI, PostgreSQL, and Razorpay to detect revenue leakage, predict recovery probability, and automate personalized recovery workflows |
+| 🌱 **Darukaa.Earth — AI Biodiversity Intelligence**     | Environmental reasoning platform combining RAG, LangGraph, knowledge graphs, vector search, FastAPI, Next.js, PostgreSQL, and Redis to generate evidence-grounded biodiversity assessments    |
+| 🏠 **EstateIQ Pro — AI Real Estate Valuation**          | Production-style ML valuation system using LightGBM, XGBoost, Optuna, SHAP, scikit-learn, and Streamlit with explainable predictions and confidence intervals                                 |
+| 🏥 **AI Health Assistant**                              | AI-powered healthcare information assistant built with Next.js and Gemini API, designed for conversational health information and modern AI workflows                                         |
+| 💳 **Credit Card Fraud Detection**                      | End-to-end fraud detection system using Random Forest, XGBoost, LightGBM, SMOTE, SHAP, FastAPI, and Streamlit for real-time scoring and analyst investigation                                 |
+| 🧪 **Clinical Trials Data Analytics**                   | End-to-end healthcare analytics pipeline using PostgreSQL, ETL, relational data modeling, SQL, data-quality governance, and Power BI dashboards                                               |
 
 </div>
+
 
 ---
 
