@@ -17,36 +17,108 @@
 
 ---
 
-# ⚡ Quick Snapshot
+````md
+# 🚀 Omkar Udawant
+
+<img align="right" alt="AI Engineer" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZlYTRmMzdnM2Vmd2M3Z2JjOHdhd2JzMDFsN3R6N2N6YnQxYTV0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+
+### 💫 AI Engineer | ML Enthusiast | Cloud Explorer
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AI%20Intern-FlyRank-blue?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Pune,%20India-orange?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Degree-B.E.%20AI%20%26%20Data%20Science-success?style=for-the-badge"/>
+</p>
+
+---
+
+## 🎯 Quick Snapshot
+
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍💻 About Me
 
 ```yaml
 Name: Omkar Udawant
+Role: AI Intern @ FlyRank
+Education: B.E. AI & Data Science
+Location: Pune, Maharashtra
+````
 
-Degree:
-  B.E. Artificial Intelligence & Data Science
+</td>
 
-Current Position:
-  AI Intern @ FlyRank
+<td width="50%">
 
-Location:
-  Pune, India
+### 🔥 Current Focus
 
-Core Domains:
-  - Artificial Intelligence
-  - Machine Learning
-  - Data Science
-  - Cloud Computing
-  - Generative AI
+```yaml
+- DSA in C++
+- Advanced SQL
+- AWS Cloud
+- MLOps
+- LLM Applications
+```
 
-Current Focus:
-  - DSA in C++
-  - Advanced SQL
-  - AWS Cloud
-  - MLOps
-  - LLM Applications
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Core Domains
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,aws,mysql,postgres,tensorflow,docker,git,github,vscode"/>
+
+</p>
+
+<p align="center">
+
+🧠 Artificial Intelligence   •  
+🤖 Machine Learning   •  
+📊 Data Science   •  
+☁️ Cloud Computing   •  
+✨ Generative AI
+
+</p>
+
+---
+
+## ⚡ Tech Universe
+
+```text
+           ┌───────────────────────┐
+           │      AI ENGINEER       │
+           └──────────┬────────────┘
+                      │
+      ┌───────────────┼───────────────┐
+      │               │               │
+      ▼               ▼               ▼
+  Machine        Cloud & DevOps    Data Science
+ Learning           (AWS)          Analytics
+      │               │               │
+      ▼               ▼               ▼
+  LLM Apps        Docker CI/CD      SQL & BI
 ```
 
 ---
+
+### 🌟 Building
+
+🚀 Agentic AI Systems
+🤖 Generative AI Applications
+📊 End-to-End ML Pipelines
+☁️ Cloud-Native Solutions
+🔍 Data-Driven Products
+
+```
+
+
+This gives a much more modern GitHub-profile feel than plain YAML while still keeping everything in code-style blocks and structured sections.
+```
 
 # 🌟 About Me
 
